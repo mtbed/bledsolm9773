@@ -1,7 +1,7 @@
 # Hawaii trip
 <body>
   <h6>
-    <a href="https://mtbed.github.io/bledsolm9773/index">Home</a> &nbsp; <a href="https://mtbed.github.io/bledsolm9773/image">Image Gallery</a> &nbsp; <a href="https://mtbed.github.io/bledsolm9773/myexperience">My Experience</a>
+    <a href="index.html">Home</a> &nbsp; <a href="image.html">Image Gallery</a> &nbsp; <a href="myexperience.html">My Experience</a>
   </h6>
     
   
