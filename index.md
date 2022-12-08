@@ -6,5 +6,5 @@
   </body>
   
 <p>
-  <a href="https://www.google.com/">Google</a>
+  <a href="https://mtbed.github.io/bledsolm9773/image">Image</a>
 </p>
