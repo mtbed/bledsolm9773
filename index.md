@@ -5,4 +5,6 @@
   <p>Here's some pictures I definitely took myself:</p>
   </body>
   
-<p><a href="https://www.google.com/">Google</a></p>
+<p>
+  <a href="https://www.google.com/">Google</a>
+</p>
