@@ -1,5 +1,6 @@
-# Web page
+<head>
 <title> Hawaii Trip </title>
+  </head>
 <body>
   <h6>
     <a href="https://mtbed.github.io/bledsolm9773/image">Image Gallery</a>
