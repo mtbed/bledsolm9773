@@ -10,5 +10,5 @@
 
   <p>I have plenty of pictures and experiences while traveling to Hawaii. Look above to navigate if you're interested!</p>
   </body>
-  <a href imgsrc="https://content.api.news/v3/images/bin/ded3be00f6965dcfa60d91c42563592d?width=1044" a>
+  <img src="https://content.api.news/v3/images/bin/ded3be00f6965dcfa60d91c42563592d?width=1044">
   
