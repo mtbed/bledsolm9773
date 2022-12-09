@@ -4,6 +4,7 @@
   </h6>
   
   <h>My Experience in Hawaii</h>
+  <br>
 <p>
 I had a great time in Hawaii. My aunt and uncle were living there for a time. I got to visit for about 6 weeks. I'm very lucky for having this experience and being able to spend so much time there
 </p>
